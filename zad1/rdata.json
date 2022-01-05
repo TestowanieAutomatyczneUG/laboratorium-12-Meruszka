@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Frida", "last": "Jørgensen" },
+      "location": {
+        "street": { "number": 2233, "name": "Slugten" },
+        "city": "Gjern",
+        "state": "Midtjylland",
+        "country": "Denmark",
+        "postcode": 13504,
+        "coordinates": { "latitude": "-33.2665", "longitude": "18.0526" },
+        "timezone": { "offset": "+3:30", "description": "Tehran" }
+      },
+      "email": "frida.jorgensen@example.com",
+      "login": {
+        "uuid": "54993b36-049e-4c47-827a-33d88348c6c6",
+        "username": "purpleduck305",
+        "password": "joyjoy",
+        "salt": "pJ4XrDbk",
+        "md5": "ccbd2e5a65ae697c5f674e67c7fd2995",
+        "sha1": "50452c86fc1dcac989240f8a5efc858f622e2c67",
+        "sha256": "9028ec77452dd40acfd7bc4c641611d734264967113be094062ba7b8559c84b9"
+      },
+      "dob": { "date": "1989-12-22T15:57:44.869Z", "age": 32 },
+      "registered": { "date": "2011-09-12T07:53:04.586Z", "age": 10 },
+      "phone": "22574739",
+      "cell": "95672878",
+      "id": { "name": "CPR", "value": "221289-0526" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+      },
+      "nat": "DK"
+    }
+  ],
+  "info": {
+    "seed": "5a51fd500087d143",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
